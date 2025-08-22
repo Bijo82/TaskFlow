@@ -26,11 +26,11 @@ You must have Flutter installed on your machine. For help, check out the officia
 
 1.  **Clone the repo**
     ```sh
-    git clone https://github.com/your_username/taskflow.git
+    git clone https://github.com/Bijo82/TaskFlow.git
     ```
 2.  **Navigate to the project directory**
     ```sh
-    cd taskflow
+    cd TaskFlow
     ```
 3.  **Install dependencies**
     ```sh
